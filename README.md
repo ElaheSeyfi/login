@@ -1,6 +1,6 @@
 # login
 
-![Screenshot (299)](https://github.com/user-attachments/assets/f10e1af9-b5c4-49c5-a569-0121ca1f1479)
+![image](https://github.com/user-attachments/assets/39d7efb8-7848-49e0-8724-8613c4bd57a9)
 
 - [Demo Project](https://elaheseyfi.github.io/login/)
 
